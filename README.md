@@ -12,7 +12,13 @@ This repository contains the tools used to create the presentation for the Navaj
 
 The slides are created using Apple Keynote. You cand find the slides in the following link:
 
-https://www.icloud.com/keynote/045e0e8GIUcCi8DSyLXNbhFHw#navana-negra-2023
+## English version
+
+https://www.icloud.com/keynote/034iAorhiAtM-r-uQPbTR6Etg#navana-negra-2023-EN
+
+### Spanish version
+
+https://www.icloud.com/keynote/045e0e8GIUcCi8DSyLXNbhFHw#navana-negra-2023-ES
 
 ## Tools
 
