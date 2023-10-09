@@ -1,0 +1,56 @@
+[2023-10-05T18:40:17.012340 21279] === CCACHE master.971f1183 STARTED =========================================
+[2023-10-05T18:40:17.012340 21279] Config: (default) absolute_paths_in_stderr = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) base_dir = 
+[2023-10-05T18:40:17.012340 21279] Config: (environment) cache_dir = /Users/cr0hn/Library/Caches/Nuitka/ccache
+[2023-10-05T18:40:17.012340 21279] Config: (default) compiler = 
+[2023-10-05T18:40:17.012340 21279] Config: (default) compiler_check = mtime
+[2023-10-05T18:40:17.012340 21279] Config: (default) compiler_type = auto
+[2023-10-05T18:40:17.012340 21279] Config: (default) compression = true
+[2023-10-05T18:40:17.012340 21279] Config: (default) compression_level = 0
+[2023-10-05T18:40:17.012340 21279] Config: (default) cpp_extension = 
+[2023-10-05T18:40:17.012340 21279] Config: (default) debug = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) debug_dir = 
+[2023-10-05T18:40:17.012340 21279] Config: (default) depend_mode = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) direct_mode = true
+[2023-10-05T18:40:17.012340 21279] Config: (default) disable = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) extra_files_to_hash = 
+[2023-10-05T18:40:17.012340 21279] Config: (default) file_clone = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) hard_link = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) hash_dir = true
+[2023-10-05T18:40:17.012340 21279] Config: (default) ignore_headers_in_manifest = 
+[2023-10-05T18:40:17.012340 21279] Config: (default) ignore_options = 
+[2023-10-05T18:40:17.012340 21279] Config: (default) inode_cache = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) keep_comments_cpp = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) limit_multiple = 0.8
+[2023-10-05T18:40:17.012340 21279] Config: (environment) log_file = /Users/cr0hn/Dropbox/Curro/Personal/charlas/NavajaNegra-2023/compilacion/demo.onefile-build/ccache-21277.txt
+[2023-10-05T18:40:17.012340 21279] Config: (default) max_files = 0
+[2023-10-05T18:40:17.012340 21279] Config: (default) max_size = 5.0G
+[2023-10-05T18:40:17.012340 21279] Config: (default) path = 
+[2023-10-05T18:40:17.012340 21279] Config: (default) pch_external_checksum = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) prefix_command = 
+[2023-10-05T18:40:17.012340 21279] Config: (default) prefix_command_cpp = 
+[2023-10-05T18:40:17.012340 21279] Config: (default) read_only = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) read_only_direct = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) recache = false
+[2023-10-05T18:40:17.012340 21279] Config: (default) run_second_cpp = true
+[2023-10-05T18:40:17.012340 21279] Config: (environment) sloppiness = include_file_mtime, include_file_ctime
+[2023-10-05T18:40:17.012340 21279] Config: (default) stats = true
+[2023-10-05T18:40:17.012340 21279] Config: (default) temporary_dir = /Users/cr0hn/Library/Caches/Nuitka/ccache/tmp
+[2023-10-05T18:40:17.012340 21279] Config: (default) umask = 
+[2023-10-05T18:40:17.012481 21279] Command line: /Users/cr0hn/Library/Caches/Nuitka/downloads/ccache/v4.2.1/ccache /usr/bin/clang -o static_src/OnefileBootstrap.o -c -flto -std=c11 -fvisibility=hidden -fwrapv -pipe -w -fvisibility=hidden -fvisibility-inlines-hidden --target=x86_64-apple-macos13.0 -O3 -D_XOPEN_SOURCE -D__NUITKA_NO_ASSERT__ -D_NUITKA_ONEFILE_MODE -D_NUITKA_PAYLOAD_FROM_MACOS_SECTION -D_NUITKA_CONSTANTS_FROM_MACOS_SECTION -I. -I/Users/cr0hn/.virtualenvs/NavajaNegra-2023/lib/python3.11/site-packages/nuitka/build/include -I/Users/cr0hn/.virtualenvs/NavajaNegra-2023/lib/python3.11/site-packages/nuitka/build/static_src -I/Users/cr0hn/.virtualenvs/NavajaNegra-2023/lib/python3.11/site-packages/nuitka/build/inline_copy/zstd static_src/OnefileBootstrap.c
+[2023-10-05T18:40:17.012502 21279] Hostname: Warning-Virus-Not-Found-EternalBlue.local
+[2023-10-05T18:40:17.012513 21279] Working directory: /Users/cr0hn/Dropbox/Curro/Personal/charlas/NavajaNegra-2023/compilacion/demo.onefile-build
+[2023-10-05T18:40:17.012522 21279] Compiler type: clang
+[2023-10-05T18:40:17.012657 21279] Source file: static_src/OnefileBootstrap.c
+[2023-10-05T18:40:17.012670 21279] Object file: static_src/OnefileBootstrap.o
+[2023-10-05T18:40:17.012726 21279] Trying direct lookup
+[2023-10-05T18:40:17.012851 21279] Looking for result name in /Users/cr0hn/Library/Caches/Nuitka/ccache/6/4/716f43kdbhduf8i74iuuvpud2m05rusM
+[2023-10-05T18:40:17.022031 21279] Got result name from manifest
+[2023-10-05T18:40:17.022082 21279] Reading result /Users/cr0hn/Library/Caches/Nuitka/ccache/f/9/ea10i7h1jl2dv1q7l1o7d3t64skoa6eR
+[2023-10-05T18:40:17.022432 21279] Reading embedded entry #0 .o (225504 bytes)
+[2023-10-05T18:40:17.022445 21279] Writing to static_src/OnefileBootstrap.o
+[2023-10-05T18:40:17.022973 21279] Succeeded getting cached result
+[2023-10-05T18:40:17.022996 21279] Result: cache hit (direct)
+[2023-10-05T18:40:17.023099 21279] Acquired lock /Users/cr0hn/Library/Caches/Nuitka/ccache/f/9/stats.lock
+[2023-10-05T18:40:17.023484 21279] Releasing lock /Users/cr0hn/Library/Caches/Nuitka/ccache/f/9/stats.lock
+[2023-10-05T18:40:17.023542 21279] Unlink /Users/cr0hn/Library/Caches/Nuitka/ccache/f/9/stats.lock

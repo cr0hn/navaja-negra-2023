@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "my_tool"
+version = "0.2.2"
+description = "Navaja Negra 2023 Demo"
+authors = ["cr0hn <cr0hn@cr0hn.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+
+# add entrypoint
+[tool.poetry.scripts]
+my-tool = "my_tool.__main__:main"
+
